@@ -1,12 +1,12 @@
 {
-  "latestVersion": "1.1.0",
-  "versionCode": 2,
+  "latestVersion": "1.2.0",
+  "versionCode": 3,
   "minimumSupportedVersion": "1.0.0",
-  "releaseDate": 1732234000000,
-  "title": "Syntaxa Edge Mind v1.1.0 Available",
-  "releaseNotes": "• New high-performance update!\n• Optimized memory management and token streaming\n• Verified seamless on-device one-tap update",
-  "download_url": "https://raw.githubusercontent.com/mohdsahil4969/syntaxaedge/main/SyntaxaEdgeMind-v1.1.0.apk",
-  "sha256": "db3a433f3cd8d8f21d60993836384195b67544fddfd3e1bc13d06ab4be6cefdd",
-  "file_size_bytes": 15106395,
+  "releaseDate": 1732400000000,
+  "title": "Syntaxa Edge Mind v1.2.0 Cyberpunk Neural UI",
+  "releaseNotes": "• Complete Cyberpunk Neural UI redesign by Stitch AI\n• Phone screen portrait layout with 60/120Hz smooth scrolling\n• Ultra-fast 1-second splash startup\n• Hardware accelerated with R8 full-mode optimization & ARM NEON FP16\n• Lightweight 14.4 MB total package size",
+  "download_url": "https://raw.githubusercontent.com/mohdsahil4969/syntaxaedge/main/SyntaxaEdgeMind-v1.2.0.apk",
+  "sha256": "005f5c4e7f868e253922f295166980dcf7fe0ae41419e1372c9aeeb295eee873",
+  "file_size_bytes": 15123023,
   "is_mandatory": false
 }
